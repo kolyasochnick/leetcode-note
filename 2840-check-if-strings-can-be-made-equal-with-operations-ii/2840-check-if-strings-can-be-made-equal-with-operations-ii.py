@@ -2,10 +2,10 @@ class Solution:
     def checkStrings(self, s1: str, s2: str) -> bool:
         n = len(s1)
 
-        odd1 = {letter: 0 for i, letter in enumerate(s1) if i % 2 == 1}
-        odd2 = {letter: 0 for i, letter in enumerate(s2) if i % 2 == 1}
-        even1 = {letter: 0 for i, letter in enumerate(s1) if i % 2 == 0}
-        even2 = {letter: 0 for i, letter in enumerate(s2) if i % 2 == 0}
+        odd1 = defaultdict(int)
+        odd2 = defaultdict(int)
+        even1 = defaultdict(int)
+        even2 = defaultdict(int)
 
         
 
