@@ -1,19 +1,23 @@
 class Solution:
     def checkStrings(self, s1: str, s2: str) -> bool:
-        odd1 = []
-        odd2 = []
-        even1 = []
-        even2 = []
-        for i in range(len(s1)):
-            if i % 2 == 0:
-                even1.append(s1[i])
-                even2.append(s2[i])
-            else:
-                odd1.append(s1[i])
-                odd2.append(s2[i])
+        n = len(s1)
+
+        odd1 = {letter: 0 for i, letter in enumerate(s1) if i % 2 == 1}
+        odd2 = {letter: 0 for i, letter in enumerate(s2) if i % 2 == 1}
+        even1 = {letter: 0 for i, letter in enumerate(s1) if i % 2 == 0}
+        even2 = {letter: 0 for i, letter in enumerate(s2) if i % 2 == 0}
+
         
-        print(sorted(even1), even2.sort(), odd1.sort(), odd2.sort())
-        if sorted(even1) == sorted(even2)and sorted(odd1) == sorted(odd2):
-        # if set(even1) == set(even2) and set(odd1) == set(odd2):
-            return True
-        return False
+
+        for i in range(n):
+            if i % 2 == 0:
+                even1[s1[i]] += 1
+                even2[s2[i]] += 1
+            else:
+                odd1[s1[i]] += 1
+                odd2[s2[i]] += 1
+        
+        return odd1 == odd2 and even1 == even2
+                
+                
+        
