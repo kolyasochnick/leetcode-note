@@ -11,6 +11,7 @@ My leetcode solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -46,4 +47,12 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
