@@ -11,6 +11,7 @@ My leetcode solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0739-daily-temperatures](https://github.com/kolyasochnick/leetcode-note/tree/main/0739-daily-temperatures/) | Medium |
@@ -27,6 +28,7 @@ My leetcode solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -65,4 +67,8 @@ My leetcode solutions
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/kolyasochnick/leetcode-note/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
