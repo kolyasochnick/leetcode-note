@@ -19,6 +19,7 @@ My leetcode solutions
 | [0739-daily-temperatures](https://github.com/kolyasochnick/leetcode-note/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kolyasochnick/leetcode-note/tree/main/0875-koko-eating-bananas/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,9 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 <!---LeetCode Topics End-->
