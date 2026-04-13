@@ -88,4 +88,9 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0191-number-of-1-bits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
