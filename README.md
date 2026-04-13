@@ -83,12 +83,14 @@ My leetcode solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0338-counting-bits/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0338-counting-bits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
