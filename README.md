@@ -71,6 +71,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/kolyasochnick/leetcode-note/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
