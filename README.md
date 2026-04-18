@@ -23,12 +23,14 @@ My leetcode solutions
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kolyasochnick/leetcode-note/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/kolyasochnick/leetcode-note/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
