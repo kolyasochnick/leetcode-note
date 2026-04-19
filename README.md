@@ -27,6 +27,7 @@ My leetcode solutions
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kolyasochnick/leetcode-note/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kolyasochnick/leetcode-note/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -39,6 +40,7 @@ My leetcode solutions
 | [0525-contiguous-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
@@ -135,6 +137,7 @@ My leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/kolyasochnick/leetcode-note/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kolyasochnick/leetcode-note/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
