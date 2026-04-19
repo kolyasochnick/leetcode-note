@@ -12,7 +12,6 @@ class Solution:
                     j -= 1
             else:
                 i = j
-                res = max(res, j - i)
         return res
             
 
