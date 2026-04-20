@@ -30,6 +30,7 @@ My leetcode solutions
 | [0974-subarray-sums-divisible-by-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kolyasochnick/leetcode-note/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kolyasochnick/leetcode-note/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
@@ -126,6 +127,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/kolyasochnick/leetcode-note/tree/main/0561-array-partition/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kolyasochnick/leetcode-note/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
