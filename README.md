@@ -93,6 +93,7 @@ My leetcode solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kolyasochnick/leetcode-note/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -155,6 +156,7 @@ My leetcode solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kolyasochnick/leetcode-note/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kolyasochnick/leetcode-note/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kolyasochnick/leetcode-note/tree/main/0141-linked-list-cycle/) | Easy |
@@ -164,6 +166,7 @@ My leetcode solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kolyasochnick/leetcode-note/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kolyasochnick/leetcode-note/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0206-reverse-linked-list/) | Easy |
