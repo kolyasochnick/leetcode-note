@@ -19,11 +19,8 @@ class Solution:
                 curr.next = curr1
                 curr1 = curr1.next
             curr = curr.next
-            
-        if curr1:
-            curr.next = curr1
-        elif curr2:
-            curr.next = curr2
+
+        curr.next = curr1 or curr2
         
         return dummy.next
         
