@@ -36,6 +36,7 @@ My leetcode solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/kolyasochnick/leetcode-note/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0525-contiguous-array/) | Medium |
@@ -47,6 +48,7 @@ My leetcode solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/kolyasochnick/leetcode-note/tree/main/0141-linked-list-cycle/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
@@ -149,6 +151,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kolyasochnick/leetcode-note/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/kolyasochnick/leetcode-note/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
