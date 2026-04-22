@@ -78,11 +78,13 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -176,8 +178,10 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
