@@ -52,6 +52,7 @@ My leetcode solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/kolyasochnick/leetcode-note/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0143-reorder-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
@@ -99,6 +100,7 @@ My leetcode solutions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/kolyasochnick/leetcode-note/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
@@ -157,10 +159,12 @@ My leetcode solutions
 | [0021-merge-two-sorted-lists](https://github.com/kolyasochnick/leetcode-note/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kolyasochnick/leetcode-note/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kolyasochnick/leetcode-note/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
