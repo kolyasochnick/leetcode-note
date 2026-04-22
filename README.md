@@ -145,4 +145,12 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
