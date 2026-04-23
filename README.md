@@ -13,6 +13,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -137,6 +138,7 @@ My leetcode solutions
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0191-number-of-1-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0191-number-of-1-bits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ My leetcode solutions
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -191,10 +194,12 @@ My leetcode solutions
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
