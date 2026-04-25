@@ -19,6 +19,7 @@ My leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0525-contiguous-array/) | Medium |
@@ -82,6 +83,7 @@ My leetcode solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kolyasochnick/leetcode-note/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -92,11 +94,13 @@ My leetcode solutions
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -127,6 +131,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
