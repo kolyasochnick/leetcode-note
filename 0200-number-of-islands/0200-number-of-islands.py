@@ -11,12 +11,12 @@ class Solution:
 
             while queue:
                 x, y = queue.popleft()
-                if (x, y) not in visited and grid[x][y] == '1':
-                    for move in moves:
-                        dx, dy = move
-                        nx = x + dx
-                        ny = y + dy
-                        if 0 <= nx < n and 0 <= ny < m:
+                for move in moves:
+                    dx, dy = move
+                    nx = x + dx
+                    ny = y + dy
+                    if 0 <= nx < n and 0 <= ny < m:
+                        if (nx, ny) not in visited and grid[nx][ny] == '1':
                             queue.append((nx, ny))
                     visited.add((x, y))
             return visited
