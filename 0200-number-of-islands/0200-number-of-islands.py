@@ -18,7 +18,7 @@ class Solution:
                     if 0 <= nx < n and 0 <= ny < m:
                         if (nx, ny) not in visited and grid[nx][ny] == '1':
                             queue.append((nx, ny))
-                    visited.add((x, y))
+                        visited.add((nx, ny))
             return visited
         
 
