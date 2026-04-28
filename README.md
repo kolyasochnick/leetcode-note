@@ -31,6 +31,7 @@ My leetcode solutions
 | [0875-koko-eating-bananas](https://github.com/kolyasochnick/leetcode-note/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kolyasochnick/leetcode-note/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -91,6 +92,7 @@ My leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,11 +101,13 @@ My leetcode solutions
 | [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kolyasochnick/leetcode-note/tree/main/0547-number-of-provinces/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +139,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Dynamic Programming
