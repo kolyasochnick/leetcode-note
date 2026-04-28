@@ -22,6 +22,6 @@ class Solution:
                                 q.appendleft((nx, ny, x, y))
                         else:
                             if (nx, ny) not in visited:
-                                q.append((nx, ny, x, y))
+                                q.append((nx, ny, nx, ny))
 
         return False
