@@ -27,6 +27,7 @@ My leetcode solutions
 | [0561-array-partition](https://github.com/kolyasochnick/leetcode-note/tree/main/0561-array-partition/) | Easy |
 | [0724-find-pivot-index](https://github.com/kolyasochnick/leetcode-note/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/kolyasochnick/leetcode-note/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/kolyasochnick/leetcode-note/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kolyasochnick/leetcode-note/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -151,6 +152,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0338-counting-bits/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/kolyasochnick/leetcode-note/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
