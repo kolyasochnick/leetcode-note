@@ -31,6 +31,7 @@ My leetcode solutions
 | [0746-min-cost-climbing-stairs](https://github.com/kolyasochnick/leetcode-note/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kolyasochnick/leetcode-note/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kolyasochnick/leetcode-note/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -81,6 +82,7 @@ My leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/kolyasochnick/leetcode-note/tree/main/0561-array-partition/) | Easy |
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Depth-First Search
@@ -169,6 +171,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0191-number-of-1-bits](https://github.com/kolyasochnick/leetcode-note/tree/main/0191-number-of-1-bits/) | Easy |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/kolyasochnick/leetcode-note/tree/main/0561-array-partition/) | Easy |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/kolyasochnick/leetcode-note/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -239,4 +243,20 @@ My leetcode solutions
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kolyasochnick/leetcode-note/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
