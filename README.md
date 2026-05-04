@@ -13,6 +13,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/kolyasochnick/leetcode-note/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0136-single-number/) | Easy |
@@ -121,6 +122,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kolyasochnick/leetcode-note/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/kolyasochnick/leetcode-note/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -142,6 +144,7 @@ My leetcode solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kolyasochnick/leetcode-note/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
