@@ -12,6 +12,7 @@ My leetcode solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/kolyasochnick/leetcode-note/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kolyasochnick/leetcode-note/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -45,6 +46,7 @@ My leetcode solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kolyasochnick/leetcode-note/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kolyasochnick/leetcode-note/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
