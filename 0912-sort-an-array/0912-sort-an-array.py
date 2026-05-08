@@ -1,33 +1,22 @@
 class Solution:
-
-    def _merge(self, nums1, nums2):
-        i = 0
-        j = 0
-        res = []
-        while i < len(nums1) and j < len(nums2):
-            if nums1[i] > nums2[j]:
-                res.append(nums2[j])
-                j += 1
-            elif nums1[i] < nums2[j]:
-                res.append(nums1[i])
-                i += 1
-            else:
-                res.append(nums2[j])
-                res.append(nums1[i])
-                i += 1
-                j += 1
-        res.extend(nums1[i:])
-        res.extend(nums2[j:])
-        return res
+    def _radixSort(self, nums):
+        if not nums:
+            return []
+        dec = 1
+        maxEl = max(nums)
+        while maxEl // dec > 0:
+            buckets = [[] for _ in range(10)]
+            for num in nums:
+                index = (num // dec) % 10
+                buckets[index].append(num)
+            nums = [num for bucket in buckets for num in bucket]
+            dec *= 10
+        return nums
 
     def sortArray(self, nums: List[int]) -> List[int]:
-        q = deque([[x] for x in nums])
 
-        while len(q) > 1:
-            left = q.popleft()
-            right = q.popleft() if q else []
+        positive = self._radixSort(list(filter(lambda x: x >= 0, nums)))
+        negative = [-x for x in self._radixSort([-x for x in nums if x < 0])][::-1]
 
-            q.append(self._merge(left, right))
-        
-        return q[0] if q else []
+        return negative + positive
         
