@@ -39,6 +39,7 @@ My leetcode solutions
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kolyasochnick/leetcode-note/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kolyasochnick/leetcode-note/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kolyasochnick/leetcode-note/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -89,6 +90,7 @@ My leetcode solutions
 | [0561-array-partition](https://github.com/kolyasochnick/leetcode-note/tree/main/0561-array-partition/) | Easy |
 | [0853-car-fleet](https://github.com/kolyasochnick/leetcode-note/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/0912-sort-an-array/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kolyasochnick/leetcode-note/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Depth-First Search
@@ -182,6 +184,7 @@ My leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/kolyasochnick/leetcode-note/tree/main/0561-array-partition/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kolyasochnick/leetcode-note/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kolyasochnick/leetcode-note/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
