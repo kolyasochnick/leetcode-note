@@ -1,21 +1,31 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
+        # Нет повторяющихся элементов
+        # Нет отрицательных чисел
+        # Первое что приходит в голову, это решить обычным перебором, но можно ли быстрее?
+        # Можно применить бинарный поиск, но для него требуется отсортированный массив.
+        # У нас есть отсортированный массив, осталось определить как найти минимум
+        # 1 2 3 4 5 
+        # 2 3 4 5 1
+        # 3 4 5 1 2
+        # 4 5 1 2 3
+        # 5 1 2 3 4
+        # Берем три указателя, left, mid, right.
+        # Если левый меньше правого, то правый указатель смещаем на мид (возвращаем левый)
+        # Если левый больше правого, и левый больше мида, правый переносим на мид
+        # в остальном случае, левый переносим на мид
+        n = len(nums)
+        left = 0
+        right = n - 1
 
-        left = 0 
-        right = len(nums) - 1
-        res = nums[0]
+        while left < right:
+            mid = (left + right) // 2 # 0
+            if nums[left] < nums[right]: # 5 > 1
+                return nums[left]
+            elif nums[left] > nums[right]:
+                if nums[left] > nums[mid]: # 5 > 1
+                    right = mid # r = 1
+                else:
+                    left = mid + 1
+        return nums[left]
 
-        while left <= right:
-            if nums[left] < nums[right]:
-                res = min(res, nums[left])
-                break
-            
-            mid = (left + right) // 2
-
-            res = min(res, nums[mid])
-            if nums[mid] >= nums[left]:
-                left = mid + 1
-            else:
-                right = mid - 1
-        return res
-        
