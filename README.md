@@ -98,6 +98,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
@@ -110,6 +111,7 @@ My leetcode solutions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
@@ -227,6 +229,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -239,6 +242,7 @@ My leetcode solutions
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
