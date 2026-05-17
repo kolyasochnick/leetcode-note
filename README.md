@@ -101,6 +101,7 @@ My leetcode solutions
 | [0100-same-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/kolyasochnick/leetcode-note/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kolyasochnick/leetcode-note/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -236,6 +237,7 @@ My leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kolyasochnick/leetcode-note/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -250,6 +252,7 @@ My leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/kolyasochnick/leetcode-note/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kolyasochnick/leetcode-note/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kolyasochnick/leetcode-note/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
