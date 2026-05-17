@@ -14,12 +14,12 @@ class Solution:
             node, low, high = stack.pop()
             if not node:
                 continue
-
             if low < node.val < high:
                 stack.append((node.left, low, node.val))
                 stack.append((node.right, node.val, high))
             else:
                 return False
         return True
+
 
         
