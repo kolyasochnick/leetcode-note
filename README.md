@@ -43,6 +43,7 @@ My leetcode solutions
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kolyasochnick/leetcode-note/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kolyasochnick/leetcode-note/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/kolyasochnick/leetcode-note/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -71,6 +72,7 @@ My leetcode solutions
 | [0143-reorder-list](https://github.com/kolyasochnick/leetcode-note/tree/main/0143-reorder-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kolyasochnick/leetcode-note/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kolyasochnick/leetcode-note/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kolyasochnick/leetcode-note/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,5 +286,6 @@ My leetcode solutions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kolyasochnick/leetcode-note/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
