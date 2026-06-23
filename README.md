@@ -47,6 +47,7 @@ My leetcode solutions
 | [2553-separate-the-digits-in-an-array](https://github.com/kolyasochnick/leetcode-note/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/kolyasochnick/leetcode-note/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kolyasochnick/leetcode-note/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/kolyasochnick/leetcode-note/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@ My leetcode solutions
 | [0561-array-partition](https://github.com/kolyasochnick/leetcode-note/tree/main/0561-array-partition/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kolyasochnick/leetcode-note/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kolyasochnick/leetcode-note/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/kolyasochnick/leetcode-note/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
