@@ -145,6 +145,7 @@ My leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/kolyasochnick/leetcode-note/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/kolyasochnick/leetcode-note/tree/main/0268-missing-number/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kolyasochnick/leetcode-note/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kolyasochnick/leetcode-note/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kolyasochnick/leetcode-note/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/kolyasochnick/leetcode-note/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Stack
